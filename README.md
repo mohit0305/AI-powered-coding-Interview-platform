@@ -20,26 +20,6 @@
 ## Hosted Link
 `https://ai-coding-platform.web.app/`
 
-## Team Members
-
-<p align="center">
-<a href="https://github.com/akshat45">
-	<img src="https://github.com/akshat45.png" width="60px">
-</a>
-
-<a href="https://github.com/jayraikhere">
-	<img src="https://github.com/jayraikhere.png" width="60px">
-</a>
-<a href="https://github.com/mohit0305/">
-	<img src="https://github.com/mohit0305.png" width="60px">
-</a>
-</p>
-<p align="center">
-		<a href="https://github.com/akshat45">Akshat Gupta</a> •
-		<a href="https://github.com/jayraikhere">Jay Raikhere</a> •
-     <a href="https://github.com/mohit0305/">Mohit Kourav</a> 
-</p>
-
 ## Brief description of the project
 
 Welcome to our AI-powered coding interview platform! This platform is designed to revolutionize the way coding interviews are conducted by leveraging artificial intelligence (AI) with Large Language Model (LLM) technology. Our system enables candidates to have interactive conversations with our AI, providing them with a realistic interview experience.
@@ -94,9 +74,6 @@ We would like to express our gratitude to the following resources and libraries 
 - [React](https://reactjs.org/)
 - [Express](https://expressjs.com/)
 
-## Contact
 
-If you have any questions, suggestions, or feedback, please feel free to reach out to our team:
-mohitkourav0305@gmail.com, akshatgup45@gmail.com, jayraykhere@gmail.com
 
 
