@@ -55,7 +55,7 @@ The AI-powered coding interview platform consists of the following components:
 
 To run the AI-powered coding interview platform locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/jayraikhere/mercor-hackathon.git`
+1. Clone the repository: `git clone https://github.com/mohit0305/AI-powered-coding-Interview-platform.git`
 2. Install the necessary dependencies: `npm install`
 3. Start the backend server: `node index.js` from this repo https://github.com/jayraikhere/mercor-hackathon-backend.git
 4. Launch the frontend interface: `npm start`
